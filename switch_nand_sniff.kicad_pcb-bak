@@ -208,7 +208,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 5415CC62) (tstamp 59B1FCB6)
-    (at 146.7365 103.378)
+    (at 147.967 102.743)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (attr smd)
